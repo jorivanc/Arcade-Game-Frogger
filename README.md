@@ -47,4 +47,3 @@ Implemented using ES6 (classes).
 7. Styling
 10. Comments
 11. README
-# Arcade-Game-Frogger
